@@ -1,0 +1,16 @@
+[30-Jul-2011 22:03:38] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 30720 bytes) in /home/stevenj1/public_html/sites/all/modules/views/includes/view.inc on line 1570
+[30-Jul-2011 22:03:43] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 77 bytes) in /home/stevenj1/public_html/includes/common.inc on line 6342
+[30-Jul-2011 22:04:55] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 71 bytes) in /home/stevenj1/public_html/includes/form.inc on line 1783
+[30-Jul-2011 22:05:34] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 79 bytes) in /home/stevenj1/public_html/includes/form.inc on line 2184
+[30-Jul-2011 22:05:54] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/stevenj1/public_html/sites/all/modules/views/modules/taxonomy.views.inc on line 234
+[30-Jul-2011 22:06:26] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 80 bytes) in /home/stevenj1/public_html/includes/module.inc on line 821
+[30-Jul-2011 22:07:45] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 71 bytes) in /home/stevenj1/public_html/includes/install.inc on line 104
+[30-Jul-2011 22:09:13] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 491520 bytes) in /home/stevenj1/public_html/sites/all/modules/views/modules/node.views_default.inc on line 278
+[30-Jul-2011 22:17:35] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 86 bytes) in /home/stevenj1/public_html/includes/form.inc on line 3016
+[30-Jul-2011 22:17:58] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/stevenj1/public_html/sites/all/modules/views/modules/node.views.inc on line 265
+[30-Jul-2011 22:23:10] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 71 bytes) in /home/stevenj1/public_html/includes/form.inc on line 1773
+[30-Jul-2011 22:25:28] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/stevenj1/public_html/sites/all/modules/views/modules/taxonomy.views.inc on line 234
+[30-Jul-2011 22:25:36] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/stevenj1/public_html/includes/form.inc on line 1701
+[30-Jul-2011 22:32:56] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 491520 bytes) in /home/stevenj1/public_html/sites/all/modules/views/modules/node.views_default.inc on line 278
+[30-Jul-2011 22:45:18] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 256 bytes) in /home/stevenj1/public_html/includes/form.inc on line 3016
+[30-Jul-2011 22:45:32] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/stevenj1/public_html/sites/all/modules/views/modules/taxonomy.views.inc on line 234
